@@ -36,147 +36,19 @@
             }
           },
           {
-            "id": "f79e089fa595045b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Учёба/Физика/Лабораторные/1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1"
-            }
-          },
-          {
-            "id": "a68bbee43aea3506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/Математический анализ/Лекции Математики.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лекции Математики"
-            }
-          },
-          {
-            "id": "eee1fa387a7348fb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Учёба/Физика/МОРИ.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "МОРИ"
-            }
-          },
-          {
-            "id": "9358117af4f2d69f",
+            "id": "e99ca642578de56f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Учёба/Физика/Рисунки/рис. 5.md"
+                "file": "Учёба/Шпоры/Тригонометрическая окружность.md"
               },
               "icon": "excalidraw-icon",
-              "title": "рис. 5"
-            }
-          },
-          {
-            "id": "1288ad6b0240a50a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/АГиТДУ/Без названия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "c22e2ab5110ea14f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Учёба/Физика/Рисунки/рис. 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "рис. 10"
-            }
-          },
-          {
-            "id": "ab38ac6b56bb074e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/АГиТДУ/Все Лекции АГиТДУ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Все Лекции АГиТДУ"
-            }
-          },
-          {
-            "id": "34dcfc38a1fc4bf2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.12.4"
-            }
-          },
-          {
-            "id": "e340ed2e0ba5118d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Учёба/Физика/Рисунки/рис. 9.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "рис. 9"
-            }
-          },
-          {
-            "id": "053f994bd6bfcb54",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Учёба/Физика/Рисунки/рис. 8.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "рис. 8"
-            }
-          },
-          {
-            "id": "263760d11820be21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Учёба/Физика/Лабораторные/Лабораторная работа №2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лабораторная работа №2"
+              "title": "Тригонометрическая окружность"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -371,11 +243,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34dcfc38a1fc4bf2",
+  "active": "e99ca642578de56f",
   "lastOpenFiles": [
-    "Учёба/АГиТДУ/Без названия.md",
+    "Учёба/Физика/Лабораторные/1.pdf",
     "Учёба/Математический анализ/Лекции Математики.md",
+    "Учёба/Физика/Лабораторные/Лабораторная работа №2.md",
+    "Учёба/Физика/Рисунки/рис. 8.md",
+    "Учёба/Физика/Рисунки/рис. 9.md",
     "Учёба/АГиТДУ/Все Лекции АГиТДУ.md",
+    "Учёба/Физика/Рисунки/рис. 10.md",
+    "Учёба/АГиТДУ/Без названия.md",
+    "Учёба/Физика/Рисунки/рис. 5.md",
+    "Учёба/Физика/МОРИ.pdf",
     "Учёба/Физика/Рисунки/рис. 11.md",
     "ЧтоЭта/Без названия 1.md",
     "ЧтоЭта/Без названия 1.base",
@@ -397,7 +276,6 @@
     "Расписание/Drawing 2026-01-05 17.40.43.excalidraw.md",
     "Расписание/13.02 и 20.02.md",
     "Учёба/Сессии/I Семестр/Экзамен Дисретка I семестр.md",
-    "Учёба/Сессии/I Семестр/Экзамен АГиТДУ I семестр.md",
     "Photoes/Pasted image 20260227083811.png",
     "Photoes/Pasted Image 20260218082023_469.png",
     "Photoes/Pasted Image 20260218082000_857.png",
@@ -408,13 +286,6 @@
     "Photoes/Pasted Image 20260107020751_384.png",
     "Photoes/Pasted Image 20260107020732_719.png",
     "Photoes/Pasted Image 20260107020711_106.png",
-    "Учёба/АГиТДУ/Практики/Практика №17 02.27.26.md",
-    "Учёба/Физика/Рисунки/рис. 5.md",
-    "Учёба/Физика/Лабораторные/1.pdf",
-    "Учёба/Физика/Лекции Общая физика.md",
-    "Учёба/Физика/Лабораторные/Лабораторная работа №2.md",
-    "Учёба/Физика/Рисунки/рис. 10.md",
-    "Учёба/Физика/МОРИ.pdf",
     "Учёба/Сбор и верифакация данных/Лекция #1 Поляков Станислав.pdf",
     "Учёба/Сбор и верифакация данных/SQL",
     "Учёба/Физика/Лабораторные",

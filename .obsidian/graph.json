@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 15461905
       }
+    },
+    {
+      "query": "Физика",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
     }
   ],
   "collapse-display": true,
@@ -78,9 +85,9 @@
   "lineSizeMultiplier": 2.3203125,
   "collapse-forces": false,
   "centerStrength": 0.583333333333333,
-  "repelStrength": 13.9583333333333,
+  "repelStrength": 13.3333333333333,
   "linkStrength": 1,
   "linkDistance": 128,
-  "scale": 0.2292013594175158,
+  "scale": 0.2292013594175161,
   "close": false
 }
