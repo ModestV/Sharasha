@@ -29,9 +29,5 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  },
-  "Учёба/Графы/Учёба.md": {
-    "iconName": "LiAperture",
-    "iconColor": "#8914a9"
   }
 }
