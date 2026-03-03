@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Лекции Математики"
             }
+          },
+          {
+            "id": "24660b0925d65140",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Учёба/Английский язык/Homeworks/Homework №15 02.25.26.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Homework №15 02.25.26"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -245,8 +257,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04f9f3c8d158fe58",
+  "active": "24660b0925d65140",
   "lastOpenFiles": [
+    "Pasted Image 20260303211812_447.png",
+    "Pasted Image 20260303211740_833.png",
     "Учёба/Математический анализ/Лекции Математики.md",
     "Расписание/Модеус.md",
     "README.md",
@@ -273,7 +287,6 @@
     "Учёба/Английский язык/Homeworks/Homework №15 02.25.26.md",
     "Учёба/Английский язык/Homeworks/Homework №14 02.18.26.md",
     "Учёба/Английский язык/Homeworks/Homework №13 02.11.26.md",
-    "Учёба/Английский язык/Homeworks/Homework №12 12.03.25.md",
     "Учёба/ИТиС/Презентация/Презентация 1.02 - Разговоры о GIT.pdf",
     "Учёба/ИТиС/Презентация/Презентация 1.01 - Software 1.0, 2.0, 3.0 .pdf",
     "Учёба/ИТиС/Презентация/Информация за курс.pdf",
@@ -293,7 +306,6 @@
     "Photoes/Pasted image 20260112191139.png",
     "Photoes/Pasted Image 20260107020809_012.png",
     "Photoes/Pasted Image 20260107020751_384.png",
-    "Photoes/Pasted Image 20260107020732_719.png",
     "Учёба/Физика/Рисунки/Без названия.canvas",
     "Учёба/Шпоры/Без названия.canvas",
     "Без названия.canvas",
