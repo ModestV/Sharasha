@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "Лекции Математики"
             }
-          },
-          {
-            "id": "24660b0925d65140",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Учёба/Английский язык/Homeworks/Homework №15 02.25.26.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Homework №15 02.25.26"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,11 +245,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24660b0925d65140",
+  "active": "8be62ce30239239b",
   "lastOpenFiles": [
-    "Pasted Image 20260303213309_114.png",
-    "Pasted Image 20260303211812_447.png",
-    "Pasted Image 20260303211740_833.png",
+    "Photoes/Pasted Image 20260303211740_833.png",
+    "Photoes/Pasted Image 20260303211812_447.png",
+    "Учёба/Английский язык/Homeworks/Homework №15 02.25.26.md",
+    "Photoes/Pasted Image 20260303213309_114.png",
     "Учёба/Математический анализ/Лекции Математики.md",
     "Расписание/Модеус.md",
     "README.md",
@@ -285,7 +274,6 @@
     "Учёба/Дискретная математика/Практики Дискретка.md",
     "Учёба/Английский язык/Homework English.md",
     "Учёба/Английский язык/Practice English.md",
-    "Учёба/Английский язык/Homeworks/Homework №15 02.25.26.md",
     "Учёба/Английский язык/Homeworks/Homework №14 02.18.26.md",
     "Учёба/Английский язык/Homeworks/Homework №13 02.11.26.md",
     "Учёба/ИТиС/Презентация/Презентация 1.02 - Разговоры о GIT.pdf",
@@ -305,7 +293,6 @@
     "Photoes/Pasted Image 20260218081947_570.png",
     "Photoes/Pasted image 20260112191159.png",
     "Photoes/Pasted image 20260112191139.png",
-    "Photoes/Pasted Image 20260107020809_012.png",
     "Учёба/Физика/Рисунки/Без названия.canvas",
     "Учёба/Шпоры/Без названия.canvas",
     "Без названия.canvas",
