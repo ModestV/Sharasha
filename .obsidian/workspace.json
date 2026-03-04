@@ -48,33 +48,9 @@
               "icon": "lucide-file",
               "title": "Лекции Математики"
             }
-          },
-          {
-            "id": "28abf0813d6a851c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Учёба/Математический анализ/Рисунки/рис. 10.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "рис. 10"
-            }
-          },
-          {
-            "id": "ba75ad3a8022173b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Учёба/Математический анализ/Рисунки/рис. 11.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "рис. 11"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "43eef8d56a74b373",
@@ -269,7 +246,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba75ad3a8022173b",
+  "active": "527f8ad2501044a5",
   "lastOpenFiles": [
     "Учёба/Математический анализ/Рисунки/рис. 10.md",
     "Учёба/Математический анализ/Рисунки/рис. 11.md",
