@@ -55,6 +55,9 @@ D_{2n} \\
 D_{nn}
 \end{pmatrix}
 $$
-$T_{Б \to Б'}\cdot\left[ \hat{A} \right]_{Б'} =\left[ \hat{A} \right]_{Б}\cdot T_{Б \to Б'}$
-$[\hat{A}]_{Б'}=T_{Б \to Б'}^{-1}\cdot[\hat{A}]_{Б}\cdot T_{Б \to Б'}$
-$[\hat{A}]_{Б'}=T_{Б' \to Б}\cdot[\hat{A}]_{Б}\cdot T_{Б \to Б'}$
+$$T_{Б \to Б'}\cdot\left[ \hat{A} \right]_{Б'} =\left[ \hat{A} \right]_{Б}\cdot T_{Б \to Б'}$$
+$$[\hat{A}]_{Б'}=T_{Б \to Б'}^{-1}\cdot[\hat{A}]_{Б}\cdot T_{Б \to Б'}$$
+$$[\hat{A}]_{Б'}=T_{Б' \to Б}\cdot[\hat{A}]_{Б}\cdot T_{Б \to Б'}$$
+<font color="#F1A5CF"><u>Теорема 5 (Связь алгебры ЛО с алгеброй их матриц)</u></font>
+Пусть $\hat{A}$ и $\hat{B}$ - ЛО, действующий в конечномерном ЛП $V$; Б - некоторый базис $V$. Тогда:
+1. $\left[ \hat{A}+\hat{B} \right]_{Б}=[\hat{A}]$
