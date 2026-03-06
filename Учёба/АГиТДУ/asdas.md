@@ -60,4 +60,9 @@ $$[\hat{A}]_{Б'}=T_{Б \to Б'}^{-1}\cdot[\hat{A}]_{Б}\cdot T_{Б \to Б'}$$
 $$[\hat{A}]_{Б'}=T_{Б' \to Б}\cdot[\hat{A}]_{Б}\cdot T_{Б \to Б'}$$
 <font color="#F1A5CF"><u>Теорема 5 (Связь алгебры ЛО с алгеброй их матриц)</u></font>
 Пусть $\hat{A}$ и $\hat{B}$ - ЛО, действующий в конечномерном ЛП $V$; Б - некоторый базис $V$. Тогда:
-1. $\left[ \hat{A}+\hat{B} \right]_{Б}=[\hat{A}]$
+1. $\left[ \hat{A}+\hat{B} \right]_{Б}=[\hat{A}]_{Б}+[\hat{B}]_{Б}$
+2. $[\hat{A}\hat{B}]_{Б}=[\hat{A}]_{Б}[\hat{B}]_{Б}$
+3. $\forall \alpha \in P$    $[\alpha  \hat{A}]_{Б}=\alpha[\hat{A}]_{Б}$
+
+<font color="#60d6a7"><u>Доказательство.</u></font>
+1
