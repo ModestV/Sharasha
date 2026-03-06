@@ -79,12 +79,4 @@ $[(\alpha  \hat{A})(\bar{x})]_{Б}=[\alpha  \hat{A}]_{Б}\cdot[\bar{x}]_{Б}$
 $[\alpha \cdot(\hat{A}(\bar{x}))]_{Б}=\alpha \cdot[\hat{A}(\bar{x})]_{Б}=\alpha[\hat{A}]_{Б}[\bar{x}]_{Б}$
 $[\alpha  \hat{A}]_{Б}[\bar{x}]_{Б}=\alpha[\hat{A}]_{Б}[\bar{x}]_{Б}$ - это верно для любого $\bar{x}\implies[\dots\implies][\alpha  \hat{A}]_{Б}=\alpha[\hat{A}]_{Б}$
 
-
-Данная теорема, строго говоря, должна предшествовать утверждению линейности, но линейность очевидна:
-$$
-(\hat{A}+\hat{B})(\alpha  \bar{x}+\beta  \bar{y})=\hat{A}(\alpha  \bar{x}+  \beta  \bar{y})+\hat{B}(\alpha  \bar{x}+  \beta  \bar{y})=
-$$
-$$
-\alpha  \hat{A}(\bar{x})+\beta  \hat{A}(\bar{y})+\alpha  \hat{A}(\bar{x})+\alpha  \hat{A}(\bar{x})
-$$
-
+### <font color="#FFB100">§2 Ядро и область линейных пространств</font>
