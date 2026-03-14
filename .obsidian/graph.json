@@ -15,56 +15,56 @@
       }
     },
     {
-      "query": "",
+      "query": "АГиТДУ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "",
+      "query": "Матан",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "",
+      "query": "ИТиС",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "",
+      "query": "Дискретка",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "",
+      "query": "English",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "",
+      "query": "Физика",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 1337092
       }
     },
     {
-      "query": "",
+      "query": "АДиИИ",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "",
+      "query": "Python",
       "color": {
         "a": 1,
         "rgb": 11621088
@@ -75,6 +75,13 @@
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "ОПД",
+      "color": {
+        "a": 1,
+        "rgb": 14221189
       }
     }
   ],
@@ -88,6 +95,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.25883865621816315,
+  "scale": 0.18462326225858233,
   "close": false
 }
